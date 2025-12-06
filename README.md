@@ -1,3 +1,5 @@
+<img src="https://media.tenor.com/jkFgnW62KK4AAAAC/cat-blink.gif" width="120">
+
 ![image alt](https://github.com/agatepirate/agatepirate/blob/main/bruhbruhbruh.png?raw=true)
 
 
