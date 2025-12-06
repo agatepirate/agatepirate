@@ -1,9 +1,8 @@
 <div align="center">
-  <div style="width: 500px; height: 150px; overflow: hidden;">
-    <img src="https://i.pinimg.com/originals/39/01/cc/3901ccb2bccc18d28c556c00079f4293.gif" width="500">
+  <div style="width: 500px; height: auto; overflow: hidden;">
+    <img src="https://i.pinimg.com/originals/39/01/cc/3901ccb2bccc18d28c556c00079f4293.gif" width="700">
   </div>
 </div>
-
 
 <div align="center">
   <div style="display: inline-flex; align-items: center; gap: 12px;">
