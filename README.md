@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/Yc1sPjV.gif" width="600">
+  <img src="https://i.imgur.com/nA8lD82.gif" width="600">
 </div>
 
 ![image alt](https://github.com/agatepirate/agatepirate/blob/main/bruhbruhbruh.png?raw=true)
