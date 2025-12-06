@@ -11,7 +11,3 @@
   <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=000000&style=flat-square" />
 </div>
 
-</div>
-
-![image alt](https://github.com/agatepirate/agatepirate/blob/main/bruhbruhbruh.png?raw=true)
-
