@@ -28,10 +28,9 @@
 </div>
 
 <div align="center">
-  <img 
-    src="[[https://github.com/agatepirate/agatepirate/blob/main/Untitled361.png?raw=true](https://github.com/agatepirate/agatepirate/blob/main/bruh%2022.png?raw=true](https://github.com/agatepirate/agatepirate/blob/main/bruh%2022.png?raw=true)" 
-    width="75%"
-  >
+  
+  ![image alt](https://github.com/agatepirate/agatepirate/blob/main/bruh%2022.png?raw=true)
+  
 </div><p align="center" style="margin-top: -850px; position: relative; z-index: 10;">
   <img 
     src="https://github.com/agatepirate/agatepirate/blob/main/Untitled369.png?raw=true" 
