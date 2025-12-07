@@ -32,7 +32,7 @@
 <p align="center">
   <img 
     src="https://github.com/agatepirate/agatepirate/blob/main/bruh%2022.png?raw=true"
-    style="width: 80%;"
+    style="width: 70%;"
   >
 </p>
 
