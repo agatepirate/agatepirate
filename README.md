@@ -29,7 +29,13 @@
 
 <div align="center">
   
-  ![image alt](https://github.com/agatepirate/agatepirate/blob/main/bruh%2022.png?raw=true)
+<p align="center">
+  <img 
+    src="https://github.com/agatepirate/agatepirate/blob/main/bruh%2022.png?raw=true"
+    style="width: 80%;"
+  >
+</p>
+
   
 </div><p align="center" style="margin-top: -850px; position: relative; z-index: 10;">
   <img 
