@@ -35,9 +35,4 @@
 </div>
 
 
-   <div align="center">
-  <img 
-    src="https://github.com/agatepirate/agatepirate/blob/main/Untitled361.png?raw=true" 
-    width="100%"
-
-
+   ![image alt](https://github.com/agatepirate/agatepirate/blob/main/Untitled369.png?raw=true)
