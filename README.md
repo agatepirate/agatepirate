@@ -31,7 +31,7 @@
   
 <p align="center">
   <img 
-    src="https://github.com/agatepirate/agatepirate/blob/main/bruh%2022.png?raw=true"
+    src="https://github.com/agatepirate/agatepirate/blob/main/bruh%20idk%2032323232.png?raw=true"
     style="width: 75%;"
   >
 </p>
