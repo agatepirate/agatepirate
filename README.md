@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <table>
     <tr>
@@ -14,7 +13,7 @@
           display: inline-block;
           border-radius: 6px;
         ">
-          <img src="https://image2url.com/images/1765389288669-610201f0-2662-4c4c-b036-b9d08dc29af7.png">
+          <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=000000&style=flat-square">
         </div>
       </td>
       <td style="padding-left: 20px;">
@@ -31,12 +30,10 @@
   
 <p align="center">
   <img 
-    src="https://cdn.corenexis.com/view/5334535168"
+    src="https://github.com/agatepirate/agatepirate/blob/main/bruh%20idk%2032323232.png?raw=true"
     style="width: 75%;"
   >
 </p>
-
-
 
 
 
