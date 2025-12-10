@@ -14,7 +14,7 @@
           display: inline-block;
           border-radius: 6px;
         ">
-          <img src="[https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=000000&style=flat-square](https://image2url.com/images/1765389288669-610201f0-2662-4c4c-b036-b9d08dc29af7.png)">
+          <img src="https://image2url.com/images/1765389288669-610201f0-2662-4c4c-b036-b9d08dc29af7.png">
         </div>
       </td>
       <td style="padding-left: 20px;">
