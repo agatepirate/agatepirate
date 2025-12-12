@@ -1,8 +1,6 @@
-
 <div align="center">
   <table>
     <tr>
-      <!-- GIF -->
       <td>
         <img src="https://i.pinimg.com/originals/a9/9d/57/a99d5708b68d44cdc725c59e17cc2167.gif" width="350">
       </td>
@@ -19,6 +17,11 @@
       <td style="padding-left: 20px;">
         <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled402.png?raw=true" width="120">
       </td>
+    </tr>
+  </table>
+</div>
+
+
       
 <p style="display: flex; align-items: center;">
   <img src="https://github.com/agatepirate/agatepirate/blob/main/morvian.png?raw=true" width="100" style="margin-right: 20px;" />
