@@ -28,4 +28,4 @@ always c*h freely!
 
 
 
-<img src="https://y2k.neocities.org/blinkiez/tumblr_p27pzqm2mk1tymkppo6_250.gif" width="350">
+<img src="https://y2k.neocities.org/blinkiez/tumblr_p27pzqm2mk1tymkppo6_250.gif" width="200">
