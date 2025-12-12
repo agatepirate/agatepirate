@@ -20,9 +20,11 @@
         <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled402.png?raw=true" width="120">
       </td>
       
- <img src="https://github.com/agatepirate/agatepirate/blob/main/morvian.png?raw=true" width="80" align="left" />
-      
-  this is morvian pls say hi to him on my <a href="https://agatepirate.atabook.org/" style="font-size:16px;"> my atabook</a> or just write something 
-      </td>
-    </tr>
-  </table>
+<p style="display: flex; align-items: center;">
+  <img src="https://github.com/agatepirate/agatepirate/blob/main/morvian.png?raw=true" width="80" style="margin-right: 10px;" />
+  <span>
+    this is bob pls say hi to him on my 
+    <a href="https://agatepirate.atabook.org/" style="font-size:16px;">my atabook</a> 
+    or just write something
+  </span>
+</p>
