@@ -19,9 +19,8 @@
       </td>
     </tr>
   </table>
-<a href="https://agatepirate.atabook.org/">my atabook</a>
+<a href="https://agatepirate.atabook.org/">my atabook</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">about me</a>
-
 
 
 always c*h freely!
