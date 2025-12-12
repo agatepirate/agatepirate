@@ -27,5 +27,5 @@
 always c*h freely!
 
 
-
+<img src="https://blinkies.cafe/b/blinkiesCafe-EZ.gif" width="200">
 <img src="https://y2k.neocities.org/blinkiez/tumblr_p27pzqm2mk1tymkppo6_250.gif" width="200">
