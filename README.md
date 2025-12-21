@@ -19,8 +19,10 @@
       </td>
     </tr>
   </table>
-${\textsf{\color{#A24701}my ataboo}}$ <a href="https://agatepirate.atabook.org/">k</a> &nbsp;&nbsp;&nbsp;&nbsp;
-${\textsf{\color{#A24701}about m}}$ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">e</a>
+${\textsf{\color{#A24701}my ataboo}}$
+  <a href="https://agatepirate.atabook.org/">k</a> &nbsp;&nbsp;&nbsp;&nbsp;
+${\textsf{\color{#A24701}about m}}$
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">e</a>
 
 ${\textsf{\color{#A24701}always c+h freely!}}$
 
