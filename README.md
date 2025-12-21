@@ -25,3 +25,16 @@ ${\textsf{\color{#A24701}my ataboo}}$<a href="https://agatepirate.atabook.org/">
 
 ${\textsf{\color{#685C1D}always c+h freely!}}$
 
+ <p>
+    <span style="color:#A24701;">my ataboo</span>
+    <a href="https://agatepirate.atabook.org/">k</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <span style="color:#A24701;">about m</span>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">e</a>
+  </p>
+
+  <p>
+    <span style="color:#685C1D;">always c+h freely!</span>
+  </p>
+
+</div>
