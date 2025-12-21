@@ -26,6 +26,12 @@ ${\textsf{\color{#4C2F4A}bruh}}$
 
 
 
+<span style="color:#FF8C00;">bla</span>
+<span style="color:#FFA500;">bla</span>
+<span style="color:#FFB347;">bla</span>
+
+
+
 
 
 
