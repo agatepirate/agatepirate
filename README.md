@@ -5,9 +5,9 @@
   
 <a href="https://agatepirate.atabook.org/">my atabook</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">about me</a>
 
-${\textsf{\color{#4C2F4A}Agate/Agat , intp}}$
+${\textsf{\color{#a8bba4}Agate/Agat , intp}}$
 
-${\textsf{\color{#4C2F4A}n.1 fan of Balthazar Button}}$
+${\textsf{\color{#695f6b}n.1 fan of Balthazar Button}}$
 
 ${\textsf{\color{#4C2F4A}always c*h freely!}}$
 
