@@ -23,7 +23,8 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">about me</a>
 
 
-<span style="color:#cc5500">To jest ciemnopomarańczowy tekst</span> <font color="#cc5500">Pomarańczowy tekst</font>
+<h3 style="color:#e67e22">✨ Features</h3>
+
 
 
 
