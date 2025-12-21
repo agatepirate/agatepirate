@@ -13,3 +13,16 @@ ${\textsf{\color{#4C2F4A}fandoms im in are: lotr, the hobbit, hp, ninjago, pushe
 ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">k</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ${\textsf{\color{#95a093}about m}}$<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">e</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=3a2641&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<details>
+  <summary><b>my interests</b></summary>
+
+  <p>
+    – coding<br>
+    – dark aesthetics<br>
+    – weird internet lore<br>
+    – books that ruin my mental health
+  </p>
+</details>
+
