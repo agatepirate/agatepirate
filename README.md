@@ -11,4 +11,4 @@ ${\textsf{\color{#695f6b}n.1 fan of Balthazar Button}}$
 
 ${\textsf{\color{#4C2F4A}always c*h freely!}}$
 
-&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=054279&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=3a2641&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
