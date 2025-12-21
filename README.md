@@ -23,7 +23,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">about me</a>
 
 
-![info](https://img.shields.io/badge/info-custom%20text-c2410c)
+<span style="color: #FF8C00;">Ciemny pomarańczowy 🍊</span>
 
 
 
