@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://i.pinimg.com/originals/04/0d/2c/040d2cd2037cc705b17365b43e2002a9.gif">
+        <img src="https://i.pinimg.com/originals/04/0d/2c/040d2cd2037cc705b17365b43e2002a9.gif"width="400">
       </td>
       <td style="padding-left: 10px;">
         <div style="
