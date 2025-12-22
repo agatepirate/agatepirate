@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="https://cdn.corenexis.com/view/1778571168" width="500">
+<img src="https://image2url.com/images/1766426175049-746aba64-ebcc-44ff-94ee-79d87c3b64e6.png" width="500">
   <img src="https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/mr-button-imagetourl.cloud-1766343696492-yo2fbd.png" width="500">
 
   ${\textsf{\color{#a8bba4}agate/agat/button/piratka}}$
@@ -13,5 +13,5 @@ ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=3a2641&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://cdn.corenexis.com/view/7243139168" width="500">
+<img src="https://image2url.com/images/1766426194370-a44d89a8-c989-43e4-9bfc-c7c5ad183eda.png" width="500">
 
