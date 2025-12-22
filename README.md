@@ -17,7 +17,5 @@ ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=3a2641&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-
-<img src="https://image2url.com/images/1766426194370-a44d89a8-c989-43e4-9bfc-c7c5ad183eda.png" width="500">
+<img src="https://image2url.com/images/1766426194370-a44d89a8-c989-43e4-9bfc-c7c5ad183eda.png" width="500"> <br>
 
