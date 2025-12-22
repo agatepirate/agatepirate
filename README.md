@@ -3,7 +3,7 @@
 <img src="https://image2url.com/images/1766426335302-43b9679d-fe2f-4c82-86ff-2bfbe472aa8e.png" width="500"> <br>
 
 
-  ${\textsf{\color{#a8bba4}agate/agat/piratka ദ്ദി ˙ᗜ˙ ) }}$
+  ${\textsf{\color{#a8bba4}agate/agat/piratka &nbsp; ദ്ദി ˙ᗜ˙ ) }}$
   
 ${\textsf{\color{#695f6b}offtab a lot but i always try to respond to whispers}}$  <br>
 ${\textsf{\color{#695f6b}im not the yapper type but interact freely }}$<br>
