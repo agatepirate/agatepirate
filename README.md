@@ -10,9 +10,7 @@
   ${\textsf{\color{#a8bba4}agate/agat/piratka}}$
   
 ${\textsf{\color{#695f6b}offtab a lot but i always try to respond to whispers}}$  <br>
-${\textsf{\color{#695f6b}interact freely,not the yapper type, thats all gulps }}$<br>
-
- ${\textsf{\color{#4f3954}no.1 fan of Balthazar Button trust trust}}$ 
+${\textsf{\color{#695f6b}interact freely, not the yapper type for sure, thats all gulps }}$<br>
  
 ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">k</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ${\textsf{\color{#95a093}about m}}$<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">e</a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
