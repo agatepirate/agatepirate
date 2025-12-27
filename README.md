@@ -6,7 +6,7 @@
  agate/agat/piratka
   
 offtab a lot but i always try to respond to whispers <br>
-c*h pls pls ok
+c*h always fine
  
 <a href="https://agatepirate.atabook.org/">atabook</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">about me</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://agatepirate.straw.page">strawpage</a>
 
