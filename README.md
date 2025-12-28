@@ -5,7 +5,7 @@
 
  agate/agat/piratka<br>
  
- intp 
+bad memory, intp 
   
 offtab a lot but i always try to respond to whispers <br>
 c*h always fine
