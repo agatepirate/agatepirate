@@ -4,8 +4,7 @@
  agate/agat/piratka  <img src="https://artwork.neocities.org/pixels/tiny/disney/princess/44431082.gif"> <br>
  
   lowkey bad memory, intp <br>
-offtab a lot but i always try to respond to whispers <br>
-c*h always fine, I love interacting  
+offtab a lot but i always try to respond to whispers, c*h always fine
 
 <a href="https://agatepirate.atabook.org/">ata</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">me</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://agatepirate.straw.page">straw</a>
 
