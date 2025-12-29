@@ -5,4 +5,4 @@
 <a href="https://agatepirate.atabook.org/">ata</a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">me</a> &nbsp;&nbsp;&nbsp;  <a href="https://agatepirate.straw.page">strw</a><br>
 <sub>God loves ya!</sub>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><very cool song trust!</sub></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">very cool song trust!</sub></a>
