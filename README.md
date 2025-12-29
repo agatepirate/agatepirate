@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://i.pinimg.com/1200x/c4/67/34/c467346e20fe142e2b71d6821c29af51.jpg" width="280"> <br>
+<img src="https://i.pinimg.com/1200x/8e/e7/21/8ee721bd8cbdeabda0452df25f015f9b.jpg" width="280"> <br>
 
 
  agate/agat/piratka  <img src="https://artwork.neocities.org/pixels/tiny/disney/princess/44431082.gif"> <br>
