@@ -6,7 +6,7 @@ agate/agat/piratka <img src="https://artwork.neocities.org/pixels/tiny/disney/pr
 
 
 <details>
-<summary>dni</summary>
+<summary>dni list</summary>
 
 no one <img src="https://artwork.neocities.org/pixels/tiny/disney/princess/41936474.gif">
 
