@@ -1,6 +1,7 @@
 <div align="center"> 
 
-![Profile views](https://komarev.com/ghpvc/?username=agatepirate)  <br>
+![Profile views](https://komarev.com/ghpvc/?username=agatepirate&color=000000)
+ <br>
 <img src="https://artwork.neocities.org/photos/night/le-kitties.gif"> <br>
 agate/agat/piratka <br>
 int freely, no need to whisp <br>
