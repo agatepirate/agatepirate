@@ -2,7 +2,7 @@
 
 <img src="https://artwork.neocities.org/photos/oldweb/computerglitch.gif" width=280> <br>
 <a href="https://agatepirate.atabook.org/">ata</a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">me</a> &nbsp;&nbsp;&nbsp; <a href="https://agatepirate.straw.page">strw</a> <br><br>
-<img src="https://artwork.neocities.org/photos/blinkies/cr56.gif">
+<img src="https://artwork.neocities.org/photos/blinkies/cr56.gif" width=100>
 <br><br><br><br><br>
 <br><br><br><br><br>
 <br><br><br><br><br>
