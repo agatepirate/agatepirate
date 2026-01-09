@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://instasize.com/p/819ae8b8d8e493e5410755ebefeb1c2fd419d1ef010aaadd385f84419cd255a1" width=300> <br>
+<img src="https://user1070.na.imgto.link/public/20260109/caine-git.avif" width=300> <br>
 <a href="https://agatepirate.atabook.org/">ata</a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">me</a> &nbsp;&nbsp;&nbsp; <a href="https://agatepirate.straw.page">strw</a>
 <br><br><br><br><br>
 <br><br><br><br><br>
