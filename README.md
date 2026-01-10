@@ -11,3 +11,7 @@ https://pic4net.com/pm-1VW7RB.html straw
 https://pic4net.com/pm-1VW7RB.html ab me
 
 [![ata](https://pic4net.com/pm-OY4K3C.html)](https://agatepirate.atabook.org/)
+
+<a href="https://pic4net.com/pm-OY4K3C.html">
+  <img src="https://pic4net.com/pm-OY4K3C.html" width="80">
+</a>
