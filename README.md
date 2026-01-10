@@ -1,4 +1,5 @@
 <div align="center"> 
+  old ahh readme taht im to lazy to remake<br>
 <img src="https://github.com/agatepirate/agatepirate/blob/main/rentry%20caine%20down21.png?raw=true" width=530> <br>
   <img src="gradient.svg" width="450"> <br>
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=480> <br>
