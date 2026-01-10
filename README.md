@@ -6,12 +6,8 @@
 
 
 
-https://pic4net.com/pm-OY4K3C.html ata
-https://pic4net.com/pm-1VW7RB.html straw
-https://pic4net.com/pm-1VW7RB.html ab me
-
 [![ata](https://pic4net.com/pm-OY4K3C.html)](https://agatepirate.atabook.org/)
 
-<a href="https://pic4net.com/pm-OY4K3C.html">
+<a href="https://github.com/agatepirate/agatepirate/blob/main/ata%20png.png?raw=true">
   <img src="https://pic4net.com/pm-OY4K3C.html" width="80">
 </a>
