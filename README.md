@@ -6,12 +6,16 @@
   
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=900> <br>
 
+<summary>
+  <font color="#cbb7f8"><b>tekst</b></font>
+</summary>
+
 <details>
-  <summary><click me!></summary>
+  <summary><font color="#cbb7f8"><b>nie kolorowy test</b></font></summary>
 
   <br>
 
-  $\color{#c8d5fe}{\textsf{test}}$
+  $\color{#c8d5fe}{\textsf{mega działajoncy pro kolorywy test}}$
 </details>
 
 
