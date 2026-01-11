@@ -7,14 +7,12 @@
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=900> <br>
 
 <details>
-  <summary><font color="#cbb7f8"><b>test</b></font></summary>
+  <summary><img src="summary.svg"></summary>
 
   <br>
 
   $\color{#c8d5fe}{\textsf{test}}$
 </details>
-
-
 
 
 <a href="https://agatepirate.atabook.org/">
