@@ -12,7 +12,7 @@
 
   <br>
 
-<video src="https://github.com/agatepirate/agatepirate/raw/refs/heads/main/videoplayback.mp4" controls width="500"></video>
+<video src="https://i.pinimg.com/originals/96/24/2c/96242c142ff4426682f63d1bf63515ac.gif" controls width="500">
 </details>
 
 
