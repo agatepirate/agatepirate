@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  <img src="https://raw.githubusercontent.com/agatepirate/agatepirate/a724933503e02bff93fb263bfca0c7bd7c83552e/gradient.svg" width="200"> <br>
+  <img src="https://raw.githubusercontent.com/agatepirate/agatepirate/a724933503e02bff93fb263bfca0c7bd7c83552e/gradient.svg" width="400"> <br>
 
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=500> <br>
 
