@@ -8,7 +8,7 @@
 
 <details>
   <summary>
-    <font color="#cbb7f8"><b>about me</b></font>
+    <font color="#cbb7f8"><b> $\color{#c8d5fe}{\textsf{test}}$ </b></font>
   </summary>
 
   <br>
