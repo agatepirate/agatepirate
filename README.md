@@ -8,13 +8,13 @@
 
 <details>
   <summary>
-    <font color="#cbb7f8"><b>✦test✦</b></font>
+    <font color="#cbb7f8"><b>about me</b></font>
   </summary>
 
   <br>
 
   <font color="#761a49">
- testtesttesttest
+  $\color{#c8d5fe}{\textsf{test}}$ 
   </font>
 </details>
 
