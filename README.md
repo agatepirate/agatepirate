@@ -19,6 +19,8 @@
   <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled461.png?raw=true" width=200>
 </a> <br>
 
+$\color{#21074a}{\textsf{best vieved on pc}}$
+
 
 <img src="https://github.com/agatepirate/agatepirate/blob/main/rentry%20caine%20down22.png?raw=true" width=900>
 
