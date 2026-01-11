@@ -16,7 +16,7 @@
 
 
 <a href="https://agatepirate.straw.page">
-  <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled461.png?raw=true"width=100>
+  <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled461.png?raw=true"width=200>
 </a> <br>
 
 
