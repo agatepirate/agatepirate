@@ -8,7 +8,7 @@
 
 
 <details>
-  <summary><font color="#cbb7f8"><b>test</b></font></summary>
+  <summary><font color="#cbb7f8"><b>click me!</b></font></summary>
 
   <br>
 Never gonna give you up
