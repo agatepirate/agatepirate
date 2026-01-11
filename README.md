@@ -12,7 +12,7 @@
 
   <br>
 
-<video src="https://i.pinimg.com/originals/96/24/2c/96242c142ff4426682f63d1bf63515ac.gif" controls width="500">
+<img src="https://i.pinimg.com/originals/96/24/2c/96242c142ff4426682f63d1bf63515ac.gif" width="500">
 </details>
 
 
