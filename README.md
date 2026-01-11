@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="https://github.com/agatepirate/agatepirate/blob/main/rentry%20caine%20down21.png?raw=true" width=500> <br>
+
   <img src="gradient.svg" width="450"> <br>
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=420> <br>
   
@@ -18,7 +18,3 @@
 <a href="https://agatepirate.straw.page">
   <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled461.png?raw=true"width=80>
 </a> <br>
-
-
-<img src="https://github.com/agatepirate/agatepirate/blob/main/rentry%20caine%20down22.png?raw=true" width=500>
-
