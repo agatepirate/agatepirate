@@ -8,11 +8,11 @@
 
 
 <details>
-  <summary><font color="#cbb7f8"><b>click this!</b></font></summary>
+  <summary><font color="#cbb7f8"><b>test</b></font></summary>
 
   <br>
 
-  $\color{#c8d5fe}{\textsf{mega działajoncy pro kolorywy test}}$
+  $\color{#c8d5fe}{\textsf{test}}$
 </details>
 
 
