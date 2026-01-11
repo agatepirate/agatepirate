@@ -9,7 +9,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img
     src="https://github.com/agatepirate/agatepirate/blob/main/about%20me%20png%202.png?raw=true"
-    width="100"
+    width="800"
     style="margin-top:-99px;"
   >
 </a>
