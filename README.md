@@ -8,17 +8,16 @@
 
 <details>
   <summary>
-    <span style="color:#b22743;"><b>test</b></span>
+    <font color="#cbb7f8"><b>✦test✦</b></font>
   </summary>
 
   <br>
 
-  <span style="color:#5e144b;">
-    • test  
-    • test 
-    • test
-  </span>
+  <font color="#761a49">
+ testtesttesttest
+  </font>
 </details>
+
 
 
 <a href="https://agatepirate.atabook.org/">
