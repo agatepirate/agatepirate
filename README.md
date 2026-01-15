@@ -1,4 +1,5 @@
 <div align="center">
+  
 ![ᯓ](https://komarev.com/ghpvc/?username=agatepirate&label=ᯓ&color=104c42) 
   
 <img src="https://file.garden/aWP8FqT_5ESND6sC/Zrzut%20ekranu%202026-01-15%20181609.png" width=450> <br>
