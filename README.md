@@ -1,6 +1,6 @@
 <div align="center"> 
   
-$\color{#705e8e}{\textsf{!!!}}$  
+$\color{#705e8e}{\textsf{▄︻デ╦═一━ ✶}}$  
 
 <img src="https://github.com/badcorporal/badcorporal/blob/main/badcop.png?raw=true" width="370">
 
